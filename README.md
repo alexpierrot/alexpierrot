@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**alexpierrot/alexpierrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🐧 Linux sysadmin
+- 🎓 Master's degree in Physics, specialising in Nanophysics and Quantum Computing.
+- 🌱 Currently learning Python and exploring the world of DevOps.
+- 💡 Always eager to learn new technologies and improve my skills.
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexpierrot&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexpierrot&layout=compact&theme=radical)
+
+## 📫 How to Reach Me
+- **Email:** [alex@alexpierrot.com](mailto:alex@alexpierrot.com)
+- **LinkedIn:** [Alex Pierrot](https://www.linkedin.com/in/alexpierrot)
+
+## 💬 Let's Connect!
+Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi!
